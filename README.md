@@ -1,6 +1,4 @@
-### Hi there , sou o  Rafael Pinheiro!!
-
-Here are some ideas to get you started:
+###  Olá sou o Rafael Pinheiro, Desenvolvedor Jr Front-end /JavaScript/Angular/HTML/CSS/GIT e GITHUB.
 
 - 🔭  Atualmente trabalho como Assistente de TI.
 - 🌱 I’m currently learni JavaScript / Angular / HTML / CSS.
