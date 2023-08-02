@@ -16,7 +16,6 @@
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="30" height="40"/>
 </div>
 ##
-####
 <div justify-content: flex-start style="display: inline_block"> 
    
   <a href="https://www.instagram.com/_rafa.el_lira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
