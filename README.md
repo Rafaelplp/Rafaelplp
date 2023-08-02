@@ -5,7 +5,7 @@
 - 📫 How to reach me:  rafael_pattison@hotmail.com 
 - 😄 Pronouns:  Ele
 <h1 justify-content: flex-start>Linguagem e Ferramentas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <div align="center" style="display: inline_block"><br>
+ <div justify-content: flex-start style="display: inline_block"><br>
     
    <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
