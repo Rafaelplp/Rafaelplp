@@ -1,4 +1,4 @@
-###  Olá sou o Rafael Pinheiro,  Desenvolvedor e Estudante de Programação Front-end - Mobile /JavaScript/Dart/Flutter/HTML/CSS/GIT e GITHUB.
+###  Olá sou o Rafael Pinheiro,  Desenvolvedor e Estudante de Programação Front-end e Mobile /JavaScript/Dart/Flutter/HTML/CSS/GIT e GITHUB.
 
 - 🔭  Último trabalho como Assistente de TI.
 - 🌱 I’m currently learni JavaScript / Dart / Flutter / HTML / CSS.
@@ -6,7 +6,6 @@
 - 😄 Pronouns:  Ele
 <h1 justify-content: flex-start>Linguagem e Ferramentas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <div justify-content: flex-start style="display: inline_block"><br>
-    
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,9 +14,7 @@
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="30" height="40"/>
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="40"/>
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="30" height="40"/>
-   
-</div>      
-
+</div>
 ##
 
 <div justify-content: flex-start style="display: inline_block"> 
