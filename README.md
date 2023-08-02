@@ -2,7 +2,7 @@
 
 - 🔭  Último trabalho como Assistente de TI.
 - 🌱 I’m currently learni JavaScript / Dart / Flutter / HTML / CSS.
-- 📫 How to reach me:  rafael_pattison@hotmail.com 
+- 📫 How to reach me:  rafael_pattison@hotmail.com / 41 9 8832-5824 - Whatsapp
 - 😄 Pronouns:  Ele
 <h1 justify-content: flex-start>Linguagem e Ferramentas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
