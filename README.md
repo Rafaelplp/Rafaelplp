@@ -5,9 +5,7 @@
 - 📫 How to reach me:  rafael_pattison@hotmail.com 
 - 😄 Pronouns:  Ele
 <h1 justify-content: flex-start>Linguagem e Ferramentas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
- ##
-
+ #
  <div justify-content: flex-start style="display: inline_block"><br>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,9 +16,7 @@
    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="40"/>
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="30" height="40"/>
 </div>
- 
-##
- 
+#
 <div justify-content: flex-start style="display: inline_block"> 
    
   <a href="https://www.instagram.com/_rafa.el_lira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
