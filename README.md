@@ -1,4 +1,4 @@
-###  Olá sou o Rafael Pinheiro,  Desenvolvedor e Estudante de Programação Front-end e Mobile /JavaScript/Dart/Flutter/HTML/CSS/GIT e GITHUB.
+###  Olá sou o Rafael Pinheiro,  Desenvolvedor e Estudante de Programação Front-end e Mobile   JavaScript/Dart/Flutter/HTML/CSS/GIT e GITHUB.
 
 - 🔭  Último trabalho como Assistente de TI.
 - 🌱 I’m currently learni JavaScript / Dart / Flutter / HTML / CSS.
