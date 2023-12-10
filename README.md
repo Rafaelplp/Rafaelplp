@@ -8,16 +8,16 @@
  
  ###
 
- <div justify-content: flex-start style="display: inline_block"><br>
-   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> </a>
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/>
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="50" height="50"/>
-</div>
+ <div justify-content: flex-start style="display: inline_block">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"alt="Rafa-Js" height="50" width="50">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"alt="Rafa-HTML" height="50" width="50">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"alt="Rafa-CSS"height="50" width="50">
+        <img src="https://img.icons8.com/color/48/000000/git.png"alt="Github" width="50" height="50">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="50" height="50">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="javascript" width="50" height="50">
+ </div>
 
 #
 
