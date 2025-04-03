@@ -1,6 +1,6 @@
-###  Olá sou o Rafael Pinheiro,  Desenvolvedor e Estudante de Programação Front-end/Back-end e Mobile
+###  Olá sou o Rafael Pinheiro,  Desenvolvedor e Estudante de Programação Full-Stack e Mobile
 ###  JavaScript / Python / Django / Dart / Flutter / HTML / CSS / GIT e GITHUB.
-- 🔭  Trabalho como Analista de TI.
+- 🔭  Trabalho como Analista de HelpDesk.
 - 🌱 I’m currently learni JavaScript / Dart / Flutter / HTML / CSS.
 - 📫 How to reach me:  rafael_pattison@hotmail.com / 41 9 8832-5824 - Whatsapp
 - 😄 Pronouns:  Ele
